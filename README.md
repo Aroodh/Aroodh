@@ -4,7 +4,7 @@
 
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250"/>
+  <img src="https://www.instagram.com/p/DDt-NzDJBt9PFTFOIyra_Ih0GixW5gdpHUE0KU0/?img_index=1" width="250"/>
 </p>
 
 ---
